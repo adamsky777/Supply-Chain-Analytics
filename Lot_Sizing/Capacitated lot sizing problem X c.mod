@@ -1,5 +1,10 @@
 # Capacitated lot Sizing Problem with two products.
-# Problem X b,
+
+# Extend the multi-product model to include a setup time that 
+# consumes production capacity each time a product is produced.
+# Find the optimal solution for the following setup times:
+
+# Problem X c,
 reset;
 
 param T; # number of periods
