@@ -1,4 +1,4 @@
-# Problem 2B
+# Problem 2C
 reset;
 
 param T; # number of periods
