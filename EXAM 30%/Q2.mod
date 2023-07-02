@@ -137,7 +137,7 @@ option solver gurobi;
 solve;
 display NetValue;
 #display sales_forecast[1,9,'Adelaide'];
-display production, inventory_F;
+display production, inventory_F, Y;
 #display Y, Z;
 display inventory_T;
 display shipment;
